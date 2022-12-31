@@ -34,7 +34,7 @@ class _DetailsPageState extends State<DetailsPage> {
           children: [
             Center(
               child: Text(
-                  'Donut',
+                  'Donu',
                 style: TextStyle(
                   fontSize: 40,
                   fontWeight: FontWeight.w600
