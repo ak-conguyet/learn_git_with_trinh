@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Sweetly 2',
+      title: 'Sweetly 23',
       home: HomePage(),
     );
   }
